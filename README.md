@@ -8,7 +8,9 @@
 
 Hi, I'm Kevin (he/him) 👋 —a software engineer intern @ Boeing Vancouver working on Flight Data Analytics (FDA) 📈. I am passionate about game development 🎮, advancements in artificial intellegence 👨‍💻, and music 🎵: 
 
+&nbsp;<div align="center">
 [![Spotify](https://novatorem-hlnp1ss3k-keveenwong.vercel.app/api/spotify?background_color=#c2c2c2&border_color=ffffff)](https://open.spotify.com/user/22v5jfwjcbncj5pggvrzcqpzy)
+</div>
 
 
 ## 📌 Pinned
