@@ -4,9 +4,9 @@
   <img src="jolteon-pokemon.gif" alt="gif image">
 </div>
 
-<h3 align="center">Hey there, I’m Kevin (he/him) 👋 <img src="https://github.com/KeveenWong/KeveenWong/blob/main/pikachu-cours.gif" width="20px"></h3>
+<h3 align="center">Hey there, I’m Kevin (he/him) 👋</h3>
 
-Hi, I'm Kevin (he/him) 👋 —a software engineer intern @ Boeing Vancouver working on Flight Data Analytics (FDA) 📈. I am passionate about game development 🎮, advancements in artificial intellegence 👨‍💻, and music 🎵: 
+I am currently a software engineer intern @ <strong>Boeing Vancouver</strong> working on <strong>Flight Data Analytics (FDA)</strong> 📈. I am passionate about game development 🎮, advancements in artificial intellegence 👨‍💻, and music 🎵: 
 
 &nbsp;<div align="center">
 [![Spotify](https://novatorem-hlnp1ss3k-keveenwong.vercel.app/api/spotify?background_color=#c2c2c2&border_color=ffffff)](https://open.spotify.com/user/22v5jfwjcbncj5pggvrzcqpzy)
