@@ -1,7 +1,7 @@
 <img src="rainbow-bar.gif" width="100%">
   
 <div align="center">
-  <img src="jolteon-pokemon.gif" alt="gif image">
+  <img src="jolteon-pokemon (1).gif" alt="gif image">
 </div>
 
 <h3 align="center">Hey there, I’m Kevin (he/him) 👋</h3>
