@@ -6,7 +6,7 @@
 
 <h3 align="center">Hey there, I’m Kevin (he/him) 👋</h3>
 
-I am currently a firmware engineer intern @ <strong>Astera Labs</strong> working on <strong>Leo CXL® Smart Memory Controllers</strong> 🚀. I am passionate about [game development](https://keveenwong.itch.io/) 🎮, advancements in artificial intelligence 👨‍💻, and music 🎵: 
+I am currently a firmware engineer intern @ <strong>[Astera Labs](https://www.asteralabs.com/)</strong> working on <strong>Leo CXL® Smart Memory Controllers</strong> 🚀. I am passionate about [game development](https://keveenwong.itch.io/) 🎮, advancements in artificial intelligence 👨‍💻, and music 🎵: 
 
 &nbsp;<div align="center">
 [![Spotify](https://novatorem-hlnp1ss3k-keveenwong.vercel.app/api/spotify?background_color=#c2c2c2&border_color=ffffff)](https://open.spotify.com/user/22v5jfwjcbncj5pggvrzcqpzy)
