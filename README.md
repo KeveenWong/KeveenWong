@@ -14,7 +14,7 @@ I am currently a firmware engineer intern @ <strong>Astera Labs</strong> working
 
 
 ## 📌 Pinned
-|  [Oh Shit, Git!?! (A lifesaver)](https://ohshitgit.com/) |  [Devpost](https://devpost.com/KeveenWong?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) |
+|  [itch.io dashboard (games I made!)](https://itch.io/dashboard) |  [Devpost](https://devpost.com/KeveenWong?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) |
 |------------------------|-------------------------------------------------------------------------------------------------------|
 
 
